@@ -4,6 +4,8 @@ Repositorio con issues para gestionar y mostrar el trabajo que realiza la asocia
 
 El repositorio recoge el trabajo de la asociación Python España a traves de [issues](https://github.com/python-spain/asociacion/issues).
 
+El apartado de [Wiki](https://github.com/python-spain/asociacion/wiki) recoge documentación sobre procesos y otros datos de la asociación.
+
 El trabajo recogido en este repositorio no esta limitado a miembros de la junta, sino que cualquier miembro de la
 comunidad es bienvenido a contribuir en la asociación.
 
